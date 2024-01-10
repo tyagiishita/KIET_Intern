@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happennings</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <div class="wrapper">
+        <img src="/task3/images/logokiet.png">
+        <div class="navb">
+            <a href="/task3/website.html">Home</a>
+            <a href="/task3/about.html">About</a>
+            <a href="/task3/happening.html">Happennings</a>
+            <!-- <a id="four" href="">Projects</a> -->
+        </div>
+
+        <div class="events">
+            <div id="ev1"><img src="/task3/images/ev1.jpg" width="350px" height="300px"></div>
+            <div id="ev2"><img src="/task3/images/ev2.jpg" width="350px" height="300px"></div>
+             <div id="ev3"><img src="/task3/images/ev3.jpg" width="350px" height="300px"></div>
+            <div id="ev4"><img src="/task3/images/ev4.jpg" width="350px" height="300px"></div>
+            <div id="ev5"><img src="/task3/images/ev5.jpg" width="350px" height="300px"></div>
+            <div id="ev6"><img src="/task3/images/ev6.jpg" width="350px" height="300px"></div>
+            <div id="ev7"><img src="/task3/images/ev7.jpg" width="350px" height="300px"></div>
+            <div id="ev8"><img src="/task3/images/ev8.jpg" width="350px" height="300px"></div>
+            <div id="ev9"><img src="/task3/images/ev9.jpg" width="350px" height="300px"></div>
+        </div>
+    </div>
+
+</body>
+</html>
