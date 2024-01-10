@@ -1,0 +1,279 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper{
+    /* background-color: azure; */
+    overflow-x: hidden;
+    display: flex;
+    height: 100vh;
+    position: relative;
+    top: 0px;
+    flex-wrap: wrap;
+}
+
+.navb{
+    position: absolute;
+    top: 10px;
+    right: 100px;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;  
+    color: brown;
+}
+
+.intro h1{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top:20px;
+}
+
+#welcome{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top:20px;
+}
+
+#wimg{
+    display: flex;
+    position: relative;
+    top:50px;
+    left:90px;
+    width: 1200px;
+    height: 500px;
+}
+
+
+.intro h2{
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    top:100px;
+    left: 50px;
+    color: rgb(28, 66, 99);
+    font-size: xx-large;
+}
+
+.intro p{
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    top:150px;
+    left: 250px;
+    color: rgb(28, 66, 99);
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;  
+}
+
+#rec{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top:700px;
+    left: 50px;
+    color: rgb(0, 0, 0);
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#cite{
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    top:180px;
+    left: 50px;
+    color: rgb(28, 66, 99);
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#box1{
+    position: absolute;
+    top: 1050px;
+    left: 10px;
+}
+
+#box2{
+    position: absolute;
+    top: 1050px;
+    left: 230px;
+}
+
+#box3{
+    position: absolute;
+    top: 1050px;
+    left: 450px;
+}
+
+#box4{
+    position: absolute;
+    top: 1050px;
+    left: 670px;
+}
+
+#box5{
+    position: absolute;
+    top: 1050px;
+    left: 890px;
+}
+
+#box6{
+    position: absolute;
+    top: 1050px;
+    left: 1100px;
+}
+
+#box7{
+    position: absolute;
+    top: 1300px;
+    left: 10px;
+}
+
+#box8{
+    position: absolute;
+    top: 1300px;
+    left: 250px;
+}
+
+#box9{
+    position: absolute;
+    top: 1650px;
+    left: 10px;
+}
+
+#box10{
+    position: absolute;
+    top: 1650px;
+    left: 250px;
+}
+
+#box11{
+    position: absolute;
+    top: 1650px;
+    left: 550px;
+}
+
+#box12{
+    position: absolute;
+    top: 1650px;
+    left: 850px;
+}
+
+#box13{
+    position: absolute;
+    top: 1650px;
+    left: 1100px;
+}
+
+.overview h1{
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    top:40px;
+    left: 10px;
+    color: rgb(0, 0, 0);
+    font-size: xx-large;
+}
+
+.overview h2{
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    top:70px;
+    left: 50px;
+    color: rgb(0, 0, 0);
+    font-size: xx-large;
+}
+
+.overview p{
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    top:80px;
+    left: 190px;
+    color: rgb(28, 66, 99);
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;  
+}
+
+#vision{
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    top: 130px;
+    left: 50px;
+    color: rgb(0, 0, 0);
+    font-size: xx-large;
+}
+
+#vpara{
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    top:98px;
+    left: 210px;
+    color: rgb(0, 0, 0);
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;  
+   
+}
+
+
+#ev1{
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+
+#ev2{
+    position: absolute;
+    top: 100px;
+    left: 500px;
+}
+
+#ev3{
+    position: absolute;
+    top: 100px;
+    left: 900px;
+}
+
+
+#ev4{
+    position: absolute;
+    top: 450px;
+    left: 100px;
+}
+
+#ev5{
+    position: absolute;
+    top: 450px;
+    left: 500px;
+}
+
+#ev6{
+    position: absolute;
+    top: 450px;
+    left: 900px;
+}
+
+#ev7{
+    position: absolute;
+    top: 800px;
+    left: 100px;
+}
+
+#ev8{
+    position: absolute;
+    top: 800px;
+    left: 500px;
+}
+
+#ev9{
+    position: absolute;
+    top: 800px;
+    left: 900px;
+}
+
