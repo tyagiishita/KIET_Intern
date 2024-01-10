@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=\, initial-scale=1.0">
+    <title>Landing Kiet website</title>
+    <!-- <link rel="icon" type="image/x-icon" href="/task3/logokiet.png"> -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+       
+    <div class="wrapper">
+        <img src="/task3/images/logokiet.png">
+        <div class="navb">
+            <a href="/task3/website.html">Home</a>
+            <a href="/task3/about.html">About</a>
+            <a href="/task3/happening.html">Happennings</a>
+           
+        </div>      
+        
+        <div class="intro">
+            <h1>Welcome to KIET Group of Institutions</h1>
+            <h2 id="welcome">Connecting Life with Learning</h2>
+            <img id="wimg" src="/task3/images/kietbg.jpg">
+            <h2>About KIET</h2>
+            <p>
+                KIET Group of Institutions strives to<br>
+                create technically competent professionals<br> 
+                who can contribute productively towards the<br>
+                betterment of the Industry and the Society<br> 
+                as a whole.
+
+                <a href="/task3/about.html"> <cite id="cite">Read more...</cite></a>
+            </p>
+
+            <div class="uni">
+               <div  id="box1"><img src="https://www.kiet.edu/uploads/gallery/sub_gallary/738983416.jpg"></div>
+               <div  id="box2"><img src="https://www.kiet.edu/uploads/gallery/sub_gallary/941528379.jpg"></div>
+               <div  id="box3"><img src="https://www.kiet.edu/uploads/gallery/sub_gallary/440826975.jpg"></div>
+               <div  id="box4"><img src="https://www.kiet.edu/uploads/gallery/sub_gallary/784851290.jpg"></div>
+               <div  id="box5"><img src="https://www.kiet.edu/uploads/gallery/sub_gallary/831756760.jpg"></div>
+               <div  id="box6"><img src="https://www.kiet.edu/uploads/gallery/sub_gallary/479675813.jpg"></div>
+               <div  id="box7"><img src="https://www.kiet.edu/uploads/gallery/sub_gallary/553833454.jpg"></div>
+               <div  id="box8"><img src="https://www.kiet.edu/uploads/gallery/sub_gallary/july2020_018.jpg"></div>    
+            </div>
+
+            <h2 id="rec">Our Recruiters</h2>
+            
+            <div class="cmp">
+                <div id="box9"><img src="https://www.kiet.edu/uploads/gallery/sub_gallary/june2020_264.jpg"></div>
+                <div id="box10"><img src="https://www.kiet.edu/uploads/gallery/sub_gallary/june2020_265.jpg"></div>
+                <div id="box11"><img src="https://www.kiet.edu/uploads/gallery/sub_gallary/june2020_266.jpg"></div>
+                <div id="box12"><img src="https://www.kiet.edu/uploads/gallery/sub_gallary/june2020_267.jpg"></div>
+                <div id="box13"><img src="https://www.kiet.edu/uploads/gallery/sub_gallary/june2020_268.jpg"></div>
+            </div>
+
+            
+        </div>
+        
+    </div>
+</body>
+</html>
