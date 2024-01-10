@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <div class="wrapper">
+        <img src="/task3/images/logokiet.png">
+        <div class="navb">
+            <a href="/task3/website.html">Home</a>
+            <a href="/task3/about.html">About</a>
+            <a href="/task3/happening.html">Happennings</a>
+            <!-- <a id="four" href="">Projects</a> -->
+        </div> 
+
+        <div class="overview">
+            <h1>KIET AT A GLANCE</h1>
+            <h2>Overview</h2>
+            <p>
+                KIET Group of Institutions is recognized 
+                as one of the best engineering colleges in Delhi-NCR.<br>
+                Founded by the members of Krishna Charitable Society 
+                in 1998 with a modest number of 180 students, <br>KIET 
+                Group of Institutions has now become a pioneer in the 
+                technical education domain with a strength<br> of 7500+ 
+                students.With a rich alumni base of 19000 + students 
+                spread in all the nooks and corners of the<br> world, 
+                KIET Group of Institutions is moving efficiently 
+                towards its vision of shaping young minds with<br> 
+                skill-oriented & value based education as these 
+                alumni serve the dual purpose of mentoring the present<br> 
+                students, as well as opening new doors for them.The
+                institute has gained a distinct image as an outstanding <br>
+                educational colossal among the technical institutions of 
+                Uttar Pradesh, due to its inclination towards <br>innovative 
+                and skill-based education. Its consistent belief in 
+                'Achieving High' is aptly reflected in its<br> academics, 
+                extracurricular activities and placements. The success 
+                of its belief is clearly brought out in the <br>plethora of 
+                Education Excellence Awards bagged by the institute. 
+                The institute has been accredited by<br> NAAC with Grade 
+                'A+' and its programmes <br>
+                (CSE, ECE, EEE, IT, ME, CE, MCA, MBA and Pharmacy) 
+                are NBA accredited.
+
+                <!-- <img src="/task3/images/about-lab.jpg">
+                <img src="/task3/images/about-location.jpg"> -->
+                    
+                <h2 id="vision">VISION</h2>
+                <p id="vpara">
+                    To become a leading institution nationally in 
+                    the area of professional education, research 
+                    & innovation<br> for serving the global community.
+                </p>
+
+                <h2 id="vision">MISSION</h2>
+                <p id="vpara" >   
+                         Impart quality professional education, skills and values through outcome-based innovative teaching <br>learning process in all spheres.
+                        <br> Udertake collaborative interdisciplinary research as a co-requisite for professional education and <br>simultaneously solve problems faced by society and industry.
+                        <br> Create an ambience of innovation, entrepreneurship and consultancy for future leaders and innovators.
+                        <br> Keep faculty members enthusiastic by continuous professional development and positive working <br>environment.
+                    </ul>
+                </p>
+
+                <h2 id="vision">CORE</h2>
+                <p id="vpara">
+                    Academic excellence
+                    Collaborative and interdiscary research culture
+                    Conducive eco-system<br>
+                    Strong humanitarian values & Ethics
+                    
+                </p>
+        </div>
+    </div>
+
+</body>
+</html>
